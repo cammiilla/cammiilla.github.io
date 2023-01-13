@@ -16,16 +16,16 @@ nav_exclude:
 
 ### Author Info ###
 author:
-  name              : YRN
+  name              : Camila Oliveira Cardoso
   image             : https://avatars2.githubusercontent.com/u/41103290
-  github            : YoussefRaafatNasry
+  github            : cammiilla
 
 
 ### Posts ###
 permalink: /blog/:title
 
 disqus:
-  shortname: your-disqus-shortname
+  shortname: Camila
 
 ### Collections ###
 collections:
