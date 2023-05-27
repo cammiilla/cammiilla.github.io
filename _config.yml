@@ -1,12 +1,11 @@
 ### Site Settings ###
 title               : Camila Oliveira
 description         : >-
-                      I turn coffee :coffee: into code,
-                      use tabs over spaces
-                      and never broke production.
+                      Physical engineer by education, data engineer by profession. 
+                      Always learning, searching and improving. 
+                      Based in Barcelona, Spain
 baseurl             : ""                     # Change to empty quotes if you are hosting your site at <your-username>.github.io directly
 repository          : cammiilla/cammiilla.github.io     # Change to <your-username>/<your-username>.github.io (or remove it if you don't need remote projects)
-remote_theme        : YoussefRaafatNasry/portfolYOU
 open_new_tab        : false                             # Opens external URLs in new tab (works for posts, projects and navbar only)
 
 
@@ -26,26 +25,11 @@ nav_exclude:                                            # The following paths ar
 ### Author Info ###
 author:
   name              : Camila Oliveira
-  image             : https://lh3.googleusercontent.com/n9oDPLL4c8rWT0XYqyy_vKkYQzPzL5W9FOxpVWFj9e6LWIYFl6mJEsN0GJ3sw19LBzncDYh0P6MRgzxiY3bebZxaGLTRm13XNH67wBNWlKw6couRsK3dMeaZy7wcjazjY_oiz7vBvN0=w2400
-  behance           : your_username
-# dribbble          : your_username
+  image             : https://lh3.googleusercontent.com/drive-viewer/AFGJ81rXyjxr7GNFcexVw34_RA-T6LqDq1KN13LTlDgKUP9HF4vXnj3LgxTzJ02UhxliWTLk-0SO48-zUNDZ18cq-hRGrUSZ=s1600
   email             : cammiillac@gmail.com
-#  facebook          : cammiilla
   github            : cammiilla
-# gitlab            : your_username
-# instagram         : your_username
-# kaggle            : your_username
-#  linkedin          : your_username
-#  medium            : your_username
-# soundcloud        : your_username
-# spotify           : your_username
-# stackoverflow     : your_user_id
-# tumblr            : your_username.tumblr.com
-# twitch            : your_username
-#  twitter           : your_username
-# vimeo             : your_username
-# youtube           : your_channel_name
-# keybase           : your_username
+  instagram         : @cammiillac
+  linkedin          : camila-oliveira-cardoso
 
 
 ### Posts ###
@@ -68,9 +52,9 @@ disqus:
 
 ### Analytics ###
 analytics:
-  enabled: false                                        # Set true to enable analytics
+  enabled: true                                        # Set true to enable analytics
   google:
-    tracking_id: your-google-tracking-id
+    tracking_id: G-7GX6JHWKPD
 
 
 ### Buy me a coffee ###
@@ -90,11 +74,6 @@ defaults:
       type: "projects"
     values:
       layout: "page"
-  - scope:                                              # For Documentation Only
-      path: ""                                          # For Documentation Only
-      type: "elements"                                  # For Documentation Only
-    values:                                             # For Documentation Only
-      layout: "element"                                 # For Documentation Only
   - scope:
       path: ""
       type: "posts"
