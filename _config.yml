@@ -6,7 +6,7 @@ description         : >-
                       Based in Barcelona, Spain
 baseurl             : ""                     # Change to empty quotes if you are hosting your site at <your-username>.github.io directly
 repository          : cammiilla/cammiilla.github.io     # Change to <your-username>/<your-username>.github.io (or remove it if you don't need remote projects)
-open_new_tab        : false                             # Opens external URLs in new tab (works for posts, projects and navbar only)
+open_new_tab        : true                             # Opens external URLs in new tab (works for posts, projects and navbar only)
 
 
 ### Plugins ###
@@ -28,7 +28,7 @@ author:
   image             : https://lh3.googleusercontent.com/drive-viewer/AFGJ81rXyjxr7GNFcexVw34_RA-T6LqDq1KN13LTlDgKUP9HF4vXnj3LgxTzJ02UhxliWTLk-0SO48-zUNDZ18cq-hRGrUSZ=s1600
   email             : cammiillac@gmail.com
   github            : cammiilla
-  instagram         : @cammiillac
+  instagram         : cammiillac
   linkedin          : camila-oliveira-cardoso
 
 
