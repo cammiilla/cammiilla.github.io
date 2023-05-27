@@ -1,26 +1,12 @@
 - title: Physics Engineer Student, Universidade de São Paulo
   from: 2016
   to: 2021
-  description: Engenharia física é um curso com uma forte base teórica em física, matemática e química, 
-                complementada com temas como quântica, ciências dos materiais, Métodos Computacionais da Física, eletrônica 
-                e microprocessadores, dentre outros que faz com que o curso possa abranger os principais temas relevantes 
-                para o campo científico-tecnologico atual.
-
-
+  description: Physical Engineering is a course with a strong theoretical foundation in physics, mathematics, and chemistry, complemented by topics such as quantum mechanics, materials science, Computational Methods in Physics, electronics, and microprocessors, among others, which allows the course to cover the main relevant topics for the current scientific-technological field. In addition to fulfilling the course syllabus, I also did 1 year of scientific initiation, 2 years of community extension project, participated in the construction of a Formula SAE car, and for 1 year, I was part of the Bingo Telescope study group and wrote my final course thesis entitled "star data analysis and identification of distinct objects by t-SNE".
 - title: Data Engineer, Shopper, Brazil
   from: 2021
   to: 2022
-  description: Lorem ipsum dolor sit amet, consectetur adipiscing elit,
-               sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-               Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris
-               nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in
-               reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-
+  description: As my first professional experience as a Data Engineer, I worked together with the Data Scientist to consolidate a prediction model in the AWS cloud. I wrote two pipelines, one in batch and one in real-time, using the Apache Beam SDK for Python to transform, group, and load data. I helped to design the data extraction process using Pentaho to create a new data warehouse for a key sector of the company.
 - title: Data Engineer, Civica, Spain
-  from: 2022/10
+  from: 2022
   to: current
-  description: Lorem ipsum dolor sit amet, consectetur adipiscing elit,
-               sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-               Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris
-               nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in
-               reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+  description: In Civica, my professional highlight was starting to perform processes with ELT logic, using AWS to automate the entire extraction and loading process, Snowflake for data storage, and DBT as a data transformation tool.
