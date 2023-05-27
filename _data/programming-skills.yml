@@ -1,11 +1,19 @@
+- name: Python
+  percentage: 100
+  color: #0CD5AC
+
 - name: SQL
-  percentage: 90
-  color: danger
+  percentage: 100
+  color: #0CD5AC
 
 - name: C
-  percentage: 80
-  color:
+  percentage: 30
+  color: #0CD5AC
 
-- name: Python
-  percentage: 90
-  color: secondary
+- name: JavaScript
+  percentage: 30
+  color: #0CD5AC
+
+- name: Matlab
+  percentage: 50
+  color: #0CD5AC
