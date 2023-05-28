@@ -7,13 +7,13 @@
   color: 8db9ca
 
   - name: Azure
-  percentage: 20
-  color: 8db9ca
+    percentage: 20
+    color: 8db9ca
 
   - name: DBT
-  percentage: 50
-  color: 8db9ca
+    percentage: 50
+    color: 8db9ca
 
   - name: Snowflake
-  percentage: 50
-  color: 8db9ca
+    percentage: 50
+    color: 8db9ca
