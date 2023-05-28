@@ -1,7 +1,19 @@
-- name: Adobe Photoshop
-  percentage: 95
-  color: info
+- name: Amazon Web Services
+  percentage: 80
+  color: 8db9ca
 
-- name: Adobe Illustrator
-  percentage: 90
-  color: success
+- name: Google Cloud Plataform 
+  percentage: 60
+  color: 8db9ca
+
+  - name: Azure
+  percentage: 20
+  color: 8db9ca
+
+  - name: DBT
+  percentage: 50
+  color: 8db9ca
+
+  - name: Snowflake
+  percentage: 50
+  color: 8db9ca
